@@ -1,0 +1,8 @@
+SUCCESS - Test apdev-flights-test-suite-getFlightsFlowTest finished Successfully.
+SUCCESS - Test apdev-flights-test-suite-getAmericanFlightsFlowTest finished Successfully.
+SUCCESS - Test apdev-flights-test-suite-postFlightsFlowTest finished Successfully.
+SUCCESS - Test apdev-flights-test-suite-postMultipleFlightsFlowTest finished Successfully.
+
+=======================================================================================
+Number of tests run: 4 - Failed: 0 - Errors: 0 - Skipped: 0 - Time elapsed: 2.0479999ms
+=======================================================================================
